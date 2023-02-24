@@ -3,7 +3,7 @@
 The Module_3 is the introduction to Excel Automation in Python
 The main packages for Excel Automation used in this Module 3 are:
 * openpyxl
-* xlswritter
+* xlsxwriter
 
 The repository Module_3 contains:
 * folder with <<'images'>> you'll need to download
